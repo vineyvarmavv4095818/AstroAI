@@ -1,0 +1,115 @@
+# AstroAI Space Knowledge Base
+# Purpose: Beginner-friendly astronomy knowledge for AstroAI RAG.
+# Each ## heading is a separate retrieval section in the current app.
+# Keep facts concise and use reliable, stable information.
+
+## Solar System Overview
+The Solar System consists of the Sun and the objects held by its gravity, including eight planets, dwarf planets, moons, asteroids, and comets. The eight planets in order from the Sun are Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, and Neptune. The four inner planets are rocky terrestrial planets. Jupiter and Saturn are gas giants, while Uranus and Neptune are ice giants. The Solar System formed about 4.6 billion years ago from a cloud of gas and dust.
+
+## The Sun
+The Sun is the star at the center of our Solar System. Its gravity keeps planets and other objects in orbit. The Sun produces energy through nuclear fusion in its core, where hydrogen nuclei combine to form helium. Sunlight takes about 8 minutes and 20 seconds to reach Earth. The Sun is a star, not a planet. It contains most of the mass of the Solar System.
+
+## Mercury
+Mercury is the closest planet to the Sun and the smallest of the eight planets. It has a rocky surface covered with many impact craters. Mercury has almost no substantial atmosphere, so temperatures vary greatly between day and night. Mercury has no natural moons and no rings. Despite being closest to the Sun, Mercury is not the hottest planet; Venus is hotter because of its strong greenhouse effect.
+
+## Venus
+Venus is the second planet from the Sun. It has a thick atmosphere mostly made of carbon dioxide and clouds containing sulfuric acid. A strong greenhouse effect makes Venus the hottest planet in the Solar System. Venus rotates very slowly and in the opposite direction to most planets. Venus has no natural moons. Its surface has high pressure and temperatures hot enough to melt lead.
+
+## Earth
+Earth is the third planet from the Sun and the only world currently known to support life. Its surface has liquid water, and its atmosphere contains nitrogen and oxygen. Earth has one natural satellite, the Moon. Earth takes about 365.25 days to orbit the Sun. Earth's seasons are mainly caused by the tilt of its rotational axis, not by large changes in its distance from the Sun.
+
+## Mars
+Mars is the fourth planet from the Sun and is often called the Red Planet. Iron minerals in its soil and dust oxidize, creating the reddish appearance. Mars has two small moons, Phobos and Deimos. It has a thin atmosphere made mostly of carbon dioxide. Mars has the largest known volcano in the Solar System, Olympus Mons, and a huge canyon system called Valles Marineris. Robotic missions study Mars to learn about its climate, geology, and whether it once had conditions suitable for microbial life.
+
+## Jupiter
+Jupiter is the fifth planet from the Sun and the largest planet in the Solar System. It is a gas giant composed mainly of hydrogen and helium. The Great Red Spot is a huge storm in Jupiter's atmosphere that has been observed for centuries. Jupiter has a faint ring system and many moons, including Ganymede, the largest moon in the Solar System. Jupiter has no solid surface like Earth's.
+
+## Saturn
+Saturn is the sixth planet from the Sun and a gas giant made mostly of hydrogen and helium. It is famous for its broad, bright ring system, which consists mainly of pieces of water ice with some rocky material and dust. Saturn has many moons, including Titan, which has a thick atmosphere. Saturn is less dense than water on average, although it could not float in an actual ocean because no such ocean is large enough and the planet would not remain intact in that way.
+
+## Uranus
+Uranus is the seventh planet from the Sun and an ice giant. Its atmosphere contains hydrogen, helium, and methane; methane absorbs red light and contributes to its blue-green appearance. Uranus rotates on its side relative to its orbit, giving it extreme seasonal patterns. It has rings and moons. Uranus is extremely cold in its upper atmosphere, though temperatures vary with altitude and location.
+
+## Neptune
+Neptune is the eighth planet from the Sun and an ice giant. It appears blue partly because methane in its atmosphere absorbs red light, though the exact shade also depends on atmospheric effects. Neptune has very strong winds and storms. It has a large moon called Triton, which orbits in the opposite direction to Neptune's rotation. Neptune is very far from the Sun and takes about 165 Earth years to complete one orbit.
+
+## Pluto and Dwarf Planets
+Pluto is classified as a dwarf planet, not one of the eight major planets. A dwarf planet orbits the Sun and is nearly round, but it has not cleared the neighborhood around its orbit. Other recognized dwarf planets include Ceres, Eris, Haumea, and Makemake. Ceres is located in the asteroid belt between Mars and Jupiter. Dwarf planets can have moons and varied surfaces.
+
+## The Moon
+The Moon is Earth's natural satellite and reflects sunlight rather than producing its own visible light. It takes about 27.3 days to orbit Earth relative to distant stars. The cycle from one new moon to the next takes about 29.5 days because Earth and the Moon are also moving around the Sun. The Moon is tidally locked to Earth, so the same side generally faces us. The Moon's phases occur because we see different portions of its sunlit half.
+
+## Moon Phases and Eclipses
+Moon phases describe how much of the Moon's sunlit half is visible from Earth. The main phases are new moon, first quarter, full moon, and last quarter, with crescent and gibbous phases between them. A solar eclipse occurs when the Moon passes between Earth and the Sun and blocks some or all of the Sun from a location on Earth. A lunar eclipse occurs when Earth passes between the Sun and the Moon and Earth's shadow falls on the Moon. Eclipses do not happen every month because the Moon's orbit is tilted relative to Earth's orbit around the Sun.
+
+## Asteroids, Comets, and Meteors
+Asteroids are rocky or metallic objects that orbit the Sun; many are found in the asteroid belt between Mars and Jupiter. Comets contain ice, dust, and rocky material and can form glowing comas and tails when they approach the Sun. A meteoroid is a small piece of rock or metal in space. A meteor is the streak of light produced when material enters an atmosphere, often called a shooting star. A meteorite is a piece that survives passage through an atmosphere and reaches the ground.
+
+## Gravity and Orbits
+Gravity is the attraction between objects with mass. The Sun's gravity keeps planets in orbit, while a planet's gravity can keep moons in orbit. An orbit is the path an object follows around another object because of its motion and gravity. Astronauts in orbit experience apparent weightlessness because they and their spacecraft are continuously falling around Earth together. Gravity still acts strongly at the altitude of the International Space Station.
+
+## Light-Years and Space Distances
+A light-year is a unit of distance, not time. It is the distance light travels in one year, about 9.46 trillion kilometers. Because light takes time to travel, looking at distant objects means seeing light that left them in the past. The Sun is about 8 light-minutes away from Earth. The nearest star system beyond the Sun is Alpha Centauri, whose closest star, Proxima Centauri, is about 4.24 light-years away.
+
+## Stars and Stellar Life Cycles
+Stars are huge spheres of hot plasma held together by gravity. Most stars produce energy through nuclear fusion in their cores. A star's life cycle depends strongly on its mass. A Sun-like star eventually expands into a red giant, sheds outer layers, and leaves behind a white dwarf. A much more massive star can explode as a supernova and leave behind a neutron star or black hole, depending on the remnant's mass and other conditions.
+
+## Supernovae and Neutron Stars
+A supernova is an extremely energetic stellar explosion. Some supernovae happen when massive stars reach the end of their lives, while others occur in systems involving white dwarfs. A neutron star is an extremely dense remnant of a collapsed star. A teaspoon of neutron-star material would have an enormous mass, although the exact amount depends on the assumed density and volume. Some neutron stars emit beams of radiation and are observed as pulsars.
+
+## Black Holes
+A black hole is a region of spacetime where gravity is so strong that, inside its event horizon, nothing can escape to the outside, not even light. The event horizon marks the boundary beyond which escape is impossible. Some black holes form when massive stars collapse. Black holes can also grow by collecting gas and merging with other black holes. A black hole does not automatically suck in everything around it; at a sufficient distance, objects can orbit it just as they can orbit other objects of the same mass.
+
+## Galaxies and the Milky Way
+A galaxy is a large system of stars, gas, dust, dark matter, and other objects held together by gravity. The Milky Way is the galaxy that contains our Solar System. It is a barred spiral galaxy with hundreds of billions of stars, though estimates vary. Our Solar System lies in a smaller structure called the Orion Arm or Orion Spur, away from the galactic center. The Milky Way and Andromeda galaxies are approaching each other and are expected to interact over billions of years.
+
+## Nebulae
+A nebula is a cloud of gas and dust in space. Some nebulae are regions where new stars form, while others are made from material expelled by dying stars. Nebulae can glow when gas is energized by nearby stars or appear dark when dust blocks background light. Images of nebulae often use visible, infrared, or other wavelengths and may use assigned colors to show scientific data.
+
+## Exoplanets
+An exoplanet is a planet that orbits a star other than the Sun. Scientists detect exoplanets using methods such as the transit method, which measures a small dip in a star's brightness when a planet passes in front of it, and the radial velocity method, which measures a star's motion caused by a planet's gravity. Thousands of exoplanets have been confirmed. Some orbit in a star's habitable zone, where liquid water might be possible under suitable atmospheric conditions, but being in the habitable zone does not prove a planet has life.
+
+## The International Space Station
+The International Space Station (ISS) is a habitable research laboratory that orbits Earth. Astronauts conduct experiments in microgravity, including research in biology, physics, materials science, and human health. The ISS travels around Earth roughly every 90 minutes, so its crew sees many sunrises and sunsets in a day. The station is not beyond Earth's gravity; it remains in orbit because it is moving forward while falling around Earth.
+
+## Rockets and Spaceflight
+A rocket moves forward by expelling exhaust backward, following Newton's third law of motion and conservation of momentum. Rockets carry their own propellant, so they can operate in the vacuum of space without needing air to push against. Launch vehicles place spacecraft or satellites on planned trajectories. Reaching orbit requires enough horizontal speed as well as altitude; simply going straight up is not enough to remain in orbit.
+
+## Satellites
+A satellite is an object that orbits another object. Natural satellites include moons, while artificial satellites are built and launched by humans. Satellites support communication, navigation, weather forecasting, Earth observation, and scientific research. Low Earth orbit satellites travel relatively close to Earth, while geostationary satellites orbit above the equator with an orbital period matching Earth's rotation, making them appear nearly fixed over one longitude.
+
+## Space Telescopes: Hubble and James Webb
+The Hubble Space Telescope observes the universe in visible, ultraviolet, and some near-infrared wavelengths. The James Webb Space Telescope (JWST) primarily observes infrared light, helping scientists study distant galaxies, star formation, and planetary atmospheres. Different telescopes reveal different features because objects emit or reflect light at different wavelengths. Space telescope images may combine observations and use colors to represent wavelengths that human eyes cannot see directly.
+
+## NASA
+NASA is the United States government agency responsible for civilian space exploration, aeronautics research, and space science. NASA missions study Earth, the Sun, planets, moons, asteroids, and the wider universe. NASA operates or partners on robotic spacecraft, space telescopes, and human spaceflight programs. Mission details and launch schedules can change, so current mission status should be checked against official NASA information.
+
+## ISRO
+ISRO is the Indian Space Research Organisation, India's national space agency. It develops and operates launch vehicles, satellites, and scientific space missions. India's Chandrayaan missions study the Moon, and the Mars Orbiter Mission, also called Mangalyaan, studied Mars after entering orbit in 2014. Chandrayaan-3 achieved a successful soft landing on the Moon on August 23, 2023. For current launch dates and mission status, consult official ISRO updates.
+
+## Chandrayaan-3
+Chandrayaan-3 was an Indian lunar mission developed by ISRO. It consisted of a propulsion module, a lander named Vikram, and a rover named Pragyan. The mission achieved a successful soft landing on the Moon on August 23, 2023, near the lunar south polar region. The rover and lander conducted surface experiments during their operational period. Chandrayaan-3 demonstrated India's ability to perform a soft landing on the Moon.
+
+## Mars Orbiter Mission (Mangalyaan)
+The Mars Orbiter Mission, popularly known as Mangalyaan, was India's first interplanetary mission. ISRO launched it in November 2013, and it entered Mars orbit in September 2014. The mission studied Mars and demonstrated technologies needed for interplanetary exploration. Its operational mission ended in 2022 after communication was lost. Historical mission facts are stable, but new mission plans and current statuses should be verified from official sources.
+
+## Space Weather and the Aurora
+Space weather refers to changing conditions in space caused mainly by activity from the Sun, including solar flares and coronal mass ejections. These events can affect satellites, radio communication, navigation, and power systems on Earth. Auroras occur when charged particles interact with gases in Earth's upper atmosphere, guided by Earth's magnetic field. Auroras are most commonly seen near polar regions, although strong geomagnetic storms can make them visible at lower latitudes.
+
+## The Search for Life
+Scientists search for signs of life beyond Earth by studying Mars, icy moons such as Europa and Enceladus, and exoplanets. Evidence may include chemical patterns, organic molecules, liquid-water environments, or atmospheric gases that are difficult to explain without biological or geological processes. No confirmed evidence of extraterrestrial life has been found so far. Finding water or organic molecules alone does not prove that life exists.
+
+## The Big Bang and the Universe
+The Big Bang model describes the expansion of the universe from an early hot, dense state about 13.8 billion years ago. It does not describe an ordinary explosion from one point into empty space; rather, space itself has expanded. Evidence supporting the model includes the expansion of galaxies, the cosmic microwave background, and the observed abundance of light elements. Scientists continue to study the universe's composition, early history, and long-term evolution.
+
+## Dark Matter and Dark Energy
+Dark matter is a form of matter inferred from its gravitational effects on galaxies and large-scale cosmic structures. It does not emit or absorb light in the ordinary way, so it is difficult to observe directly. Dark energy is the name given to whatever is driving the observed accelerated expansion of the universe in the standard cosmological model. Dark matter and dark energy are different concepts, and their fundamental nature remains an active area of research.
+
+## Why Is Space Dark?
+Space often looks dark because it contains very little matter to scatter sunlight toward an observer, unlike Earth's atmosphere. Stars and galaxies emit or reflect light, but the universe is vast and has a finite age, and cosmic expansion stretches light from very distant objects. Earth's daytime sky appears blue because molecules in the atmosphere scatter shorter-wavelength sunlight more strongly than longer-wavelength light.
+
+## Astronauts and Microgravity
+Astronauts in orbit experience microgravity because they and their spacecraft are in continuous free fall around Earth. They can float relative to the spacecraft, but Earth's gravity is still present. Living in microgravity affects muscles, bones, fluid distribution, and balance, so astronauts follow exercise and health-monitoring routines. Spaceflight can also affect sleep and radiation exposure, which are important parts of human-spaceflight research.
+
+## Space Safety and Responsible Answers
+Space science includes confirmed observations, scientific models, and open questions. A responsible answer should distinguish measured facts from hypotheses and speculation. If this knowledge base does not contain enough information to answer a question, AstroAI should say that the file does not provide enough information instead of inventing a fact. Current mission status, weather in space, and new discoveries may change and should be checked using up-to-date official sources.
