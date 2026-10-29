@@ -7,7 +7,7 @@ from app import ask_gemini, ask_ollama, ask_knowledge
 
 
 st.set_page_config(
-    page_title="AstroAI | Space Assistant",
+    page_title="CosmoAI | Space Assistant",
     page_icon="🌌",
     layout="wide",
     initial_sidebar_state="expanded",
@@ -375,7 +375,7 @@ def transcript_text() -> str:
 
     for m in st.session_state.messages:
 
-        who = "You" if m["role"] == "user" else "AstroAI"
+        who = "You" if m["role"] == "user" else "CosmoAI"
 
         lines.append(f"{who}: {m['content']}\n")
 
@@ -423,7 +423,7 @@ with st.sidebar:
 
     st.markdown(
 
-        '<div class="brand">🌌 AstroAI</div>'
+        '<div class="brand">🌌 CosmoAI</div>'
 
         '<div class="brand-sub">Your personal space assistant</div>',
 
@@ -498,7 +498,7 @@ with st.sidebar:
 
             "Save conversation", data=transcript_text(),
 
-            file_name=f"astroai-chat-{datetime.now():%Y%m%d-%H%M}.txt",
+            file_name=f"CosmoAI-chat-{datetime.now():%Y%m%d-%H%M}.txt",
 
             icon=":material/download:", use_container_width=True,
 
@@ -757,7 +757,7 @@ elif page == "Compare models":
 
 elif page == "About":
 
-    page_header("About AstroAI",
+    page_header("About CosmoAI",
 
                 "An astronomy assistant that explains space in plain, beginner-friendly language.")
 
@@ -775,7 +775,7 @@ elif page == "About":
 
 - Ask astronomy questions and get simple explanations
 
-- Follow up, since AstroAI remembers the conversation
+- Follow up, since CosmoAI remembers the conversation
 
 - Switch between Gemini (cloud) and Ollama (local)
 

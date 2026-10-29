@@ -1,5 +1,5 @@
-# AstroAI Space Knowledge Base
-# Purpose: Beginner-friendly astronomy knowledge for AstroAI RAG.
+# CosmoAI Space Knowledge Base
+# Purpose: Beginner-friendly astronomy knowledge for CosmoAI RAG.
 # Each ## heading is a separate retrieval section in the current app.
 # Keep facts concise and use reliable, stable information.
 
@@ -112,4 +112,4 @@ Space often looks dark because it contains very little matter to scatter sunligh
 Astronauts in orbit experience microgravity because they and their spacecraft are in continuous free fall around Earth. They can float relative to the spacecraft, but Earth's gravity is still present. Living in microgravity affects muscles, bones, fluid distribution, and balance, so astronauts follow exercise and health-monitoring routines. Spaceflight can also affect sleep and radiation exposure, which are important parts of human-spaceflight research.
 
 ## Space Safety and Responsible Answers
-Space science includes confirmed observations, scientific models, and open questions. A responsible answer should distinguish measured facts from hypotheses and speculation. If this knowledge base does not contain enough information to answer a question, AstroAI should say that the file does not provide enough information instead of inventing a fact. Current mission status, weather in space, and new discoveries may change and should be checked using up-to-date official sources.
+Space science includes confirmed observations, scientific models, and open questions. A responsible answer should distinguish measured facts from hypotheses and speculation. If this knowledge base does not contain enough information to answer a question, CosmoAI should say that the file does not provide enough information instead of inventing a fact. Current mission status, weather in space, and new discoveries may change and should be checked using up-to-date official sources.

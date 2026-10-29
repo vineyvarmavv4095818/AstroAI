@@ -10,7 +10,7 @@ load_dotenv()
 OLLAMA_MODEL = "gemma3:1b"
 
 SYSTEM_PROMPT = """
-You are AstroAI, a friendly astronomy tutor.
+You are CosmoAI, a friendly astronomy tutor.
 
 Instructions:
 - Explain concepts in simple English.
@@ -104,7 +104,7 @@ def cosine_similarity(a, b):
 
 
 def ask_knowledge(question):
-    """Answer a question using AstroAI's local space knowledge."""
+    """Answer a question using CosmoAI's local space knowledge."""
 
     if not question or not question.strip():
         return "Please ask a valid question."
@@ -165,7 +165,7 @@ def ask_knowledge(question):
 
         # Generate an answer using the retrieved information
         prompt = f"""
-You are AstroAI, a friendly astronomy tutor.
+You are CosmoAI, a friendly astronomy tutor.
 
 Answer the question using only the knowledge below.
 Use simple English and keep your answer under 100 words.
@@ -224,7 +224,7 @@ def ask_gemini(question, history=None):
                 )
             elif message["role"] == "assistant":
                 conversation.append(
-                    f"AstroAI: {message['content']}"
+                    f"CosmoAI: {message['content']}"
                 )
 
     conversation.append(f"User: {question}")
@@ -233,7 +233,7 @@ def ask_gemini(question, history=None):
         SYSTEM_PROMPT
         + "\n\nConversation so far:\n"
         + "\n".join(conversation)
-        + "\n\nReply to the latest user message as AstroAI."
+        + "\n\nReply to the latest user message as CosmoAI."
     )
 
     try:

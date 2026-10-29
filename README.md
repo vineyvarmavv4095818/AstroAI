@@ -1,10 +1,10 @@
-# 🌌 AstroAI — AI-Powered Astronomy Assistant
+# 🌌 CosmoAI — AI-Powered Astronomy Assistant
 
 **Explore the universe with AI.** 🚀
 
-AstroAI is an AI-powered astronomy assistant designed to help users explore space, understand astronomical concepts, and learn about the universe through conversational AI.
+CosmoAI is an AI-powered astronomy assistant designed to help users explore space, understand astronomical concepts, and learn about the universe through conversational AI.
 
-Built with Python and Streamlit, AstroAI integrates Google's Gemini model for AI-powered conversations and supports a locally running Ollama model for private, offline-capable experimentation.
+Built with Python and Streamlit, CosmoAI integrates Google's Gemini model for AI-powered conversations and supports a locally running Ollama model for private, offline-capable experimentation.
 
 ## ✨ Features
 
@@ -31,17 +31,17 @@ Built with Python and Streamlit, AstroAI integrates Google's Gemini model for AI
 
 ## 🚀 Live Demo
 
-**Try AstroAI:** [Open the Live App](https://astroai-j6hqrrpxzerv6nolemdba9.streamlit.app/)
+**Try CosmoAI:** [Open the Live App](https://CosmoAI-j6hqrrpxzerv6nolemdba9.streamlit.app/)
 
 > The live deployment currently uses Google Gemini. Local Ollama integration and Knowledge Mode are intended for local use while cloud compatibility is being improved.
 
-## 💻 Run AstroAI Locally
+## 💻 Run CosmoAI Locally
 
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/vineyvarmavv4095818/AstroAI.git
-cd AstroAI
+git clone https://github.com/vineyvarmavv4095818/CosmoAI.git
+cd CosmoAI
 ```
 
 Replace `vineyvarmavv4095818` with your GitHub username.
@@ -87,7 +87,7 @@ Streamlit will provide a local URL, usually `http://localhost:8501`.
 
 ## 🦙 Using Ollama Locally
 
-AstroAI also supports local AI inference using Ollama.
+CosmoAI also supports local AI inference using Ollama.
 
 1. Install [Ollama](https://ollama.com/).
 2. Start Ollama on your computer.
@@ -100,7 +100,7 @@ ollama pull gemma3:1b
 ollama pull nomic-embed-text
 ```
 
-4. Run AstroAI locally and select Ollama where supported by the application.
+4. Run CosmoAI locally and select Ollama where supported by the application.
 
 - `gemma3:1b` is used for local AI conversations.
 - `nomic-embed-text` is used to generate embeddings for Knowledge Mode.
@@ -109,7 +109,7 @@ ollama pull nomic-embed-text
 
 ## 📚 Knowledge Mode — RAG
 
-AstroAI includes an experimental Retrieval-Augmented Generation (RAG) workflow for astronomy-related questions.
+CosmoAI includes an experimental Retrieval-Augmented Generation (RAG) workflow for astronomy-related questions.
 
 The workflow:
 
@@ -124,7 +124,7 @@ This approach helps the assistant use relevant information from a custom knowled
 ## 📁 Project Structure
 
 ```text
-AstroAI/
+CosmoAI/
 ├── streamlit_app.py       # Streamlit user interface
 ├── app.py                 # AI model and application logic
 ├── space_knowledge.txt    # Custom astronomy knowledge base
@@ -150,7 +150,7 @@ AstroAI/
 
 ## 🎯 Project Goal
 
-The goal of AstroAI is to make astronomy easier to explore through conversational AI, combining cloud-based language models with local AI experimentation and retrieval-based knowledge.
+The goal of CosmoAI is to make astronomy easier to explore through conversational AI, combining cloud-based language models with local AI experimentation and retrieval-based knowledge.
 
 ## 👨‍💻 Author
 
@@ -160,4 +160,4 @@ Computer Science & Engineering | AI/ML Enthusiast
 
 ---
 
-⭐ If you find AstroAI interesting, consider starring the repository!
+⭐ If you find CosmoAI interesting, consider starring the repository!
